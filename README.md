@@ -1,2 +1,6 @@
-# todolidt
+# todolist
 Simple To-Do list with HTML, CSS and JavaScript
+
+View Live at SoloLearn:-
+https://code.sololearn.com/WA4a9a14A9A1
+
